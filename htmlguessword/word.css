@@ -1,0 +1,49 @@
+
+.centered
+{
+   text-align: center;
+   margin:     64px auto;    
+                                
+
+   font-family: monospace ;  
+}
+
+
+body
+{
+   background-color: White ;
+}
+
+
+h1
+{
+   font-size:       2.8em ; 
+   letter-spacing:  4px ;    
+}
+
+button
+{
+   width:  28px ;
+   height: 36px ;
+   font-size: 18px ;
+   color:rgb(0, 225, 255); 
+   background-color: rgb(205, 50, 140) ;
+}
+
+#butnew
+{
+    width:  200px ;
+    height: 40px ;
+    background-color:black;
+    color:white;
+
+}
+button:hover         
+{
+    opacity: 0.8 ;   
+}
+button:disabled
+{
+ color: White ; 
+ background-color: LightGray ;
+}
